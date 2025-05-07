@@ -1,1 +1,3 @@
 it's a prototype idk how I can explain if you want picture go on my instagram.
+
+This bus operates with two outputs: one for data and one for the clock. Every 25 milliseconds, the transmitter sends a signal consisting of 32 bits. In these 32 bits, the first 8 bits are address bits, the next 2 bits are for the calculator, the following 19 bits are for the data, the subsequent 2 bits are for supplementary data, and the final bit is a parity bit.
